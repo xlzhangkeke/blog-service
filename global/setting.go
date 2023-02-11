@@ -1,8 +1,8 @@
 package global
 
 import (
-	"github.com/go-programming-tour-book/blog-service/pkg/logger"
-	"github.com/go-programming-tour-book/blog-service/pkg/setting"
+	"github.com/xlzhangkeke/blog-service/pkg/logger"
+	"github.com/xlzhangkeke/blog-service/pkg/setting"
 )
 
 var (

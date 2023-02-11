@@ -5,8 +5,8 @@ import (
 	"time"
 
 	"github.com/gin-gonic/gin"
-	"github.com/go-programming-tour-book/blog-service/global"
-	"github.com/go-programming-tour-book/blog-service/pkg/logger"
+	"github.com/xlzhangkeke/blog-service/global"
+	"github.com/xlzhangkeke/blog-service/pkg/logger"
 )
 
 type AccessLogWriter struct {

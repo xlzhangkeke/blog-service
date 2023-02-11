@@ -5,8 +5,8 @@ import (
 
 	otgorm "github.com/eddycjy/opentracing-gorm"
 
-	"github.com/go-programming-tour-book/blog-service/global"
-	"github.com/go-programming-tour-book/blog-service/internal/dao"
+	"github.com/xlzhangkeke/blog-service/global"
+	"github.com/xlzhangkeke/blog-service/internal/dao"
 )
 
 type Service struct {

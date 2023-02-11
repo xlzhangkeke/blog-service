@@ -4,15 +4,15 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/go-programming-tour-book/blog-service/pkg/limiter"
+	"github.com/xlzhangkeke/blog-service/pkg/limiter"
 
-	"github.com/go-programming-tour-book/blog-service/global"
+	"github.com/xlzhangkeke/blog-service/global"
 
 	"github.com/gin-gonic/gin"
-	_ "github.com/go-programming-tour-book/blog-service/docs"
-	"github.com/go-programming-tour-book/blog-service/internal/middleware"
-	"github.com/go-programming-tour-book/blog-service/internal/routers/api"
-	"github.com/go-programming-tour-book/blog-service/internal/routers/api/v1"
+	_ "github.com/xlzhangkeke/blog-service/docs"
+	"github.com/xlzhangkeke/blog-service/internal/middleware"
+	"github.com/xlzhangkeke/blog-service/internal/routers/api"
+	"github.com/xlzhangkeke/blog-service/internal/routers/api/v1"
 	ginSwagger "github.com/swaggo/gin-swagger"
 	"github.com/swaggo/gin-swagger/swaggerFiles"
 )

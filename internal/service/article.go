@@ -1,9 +1,9 @@
 package service
 
 import (
-	"github.com/go-programming-tour-book/blog-service/internal/dao"
-	"github.com/go-programming-tour-book/blog-service/internal/model"
-	"github.com/go-programming-tour-book/blog-service/pkg/app"
+	"github.com/xlzhangkeke/blog-service/internal/dao"
+	"github.com/xlzhangkeke/blog-service/internal/model"
+	"github.com/xlzhangkeke/blog-service/pkg/app"
 )
 
 type ArticleRequest struct {
